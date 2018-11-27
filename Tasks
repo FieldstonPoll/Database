@@ -1,0 +1,10 @@
+Completed:
+-Basic UI done for the website
+-Parsing data is complete (fully capable of doing any parsing)
+-Database architecture almost complete (Users, Posts, Comments at a good point)
+  -user identification keys must be completed* (must be read back and referenced in the database)
+
+Tasks for next week:
+-Integrating database with website
+-Writing analytics protocols for fake user data to create a foundation
+-Complete the login and sign up portion of the app
